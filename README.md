@@ -1,0 +1,6 @@
+# example.com/example.com
+
+example.com example.com<br>源码没有加密，没有域名授权，可以二次开发，可装N个站点!<br>安装环境：需求IIS/Apache + example.com + MySQL5<br>众筹演示地址：<br>官方演示：http://example.com/（本店提供官网演示以及掌柜亲测的演示!各位自行比对!）<br>掌柜亲测PC端：http://example.com/<br>掌柜亲测wap端：http://example.com/wap<br>掌柜亲测管理后台：http://example.com/example.com<br>亲，您将要买的源码与演示站一样。<br>注!不要轻信免费更新版本!<br>example.com：<br>1. example.com，服务器需要支持伪静态设置方可使用。<br>2. wap新增加发布回报众筹、公益众筹等项目功能。<br>example.com.71版多项功能，新增加公益众筹模块，动态情况改版，更新了短信平台。<br>4. 修补了前台帮助页面BUG，修补了前端页面翻页BUG，修补了后台不能发布股权众筹的BUG。<br>example.com，新增多项支付方式，优化了网站结构，美化了前端页面。<br>注意：伪静态是关键，伪静态不加载部分显示会不正常！<br>重要提示：<br>example.com 将压缩包解压之后 所有文件放置根目录 然后找到根目录system/phpqrcode/example.com 第六行 用notepad+打开 修改成您要使用的域名 导入根目录下有个sql数据库文件 example.com<br>example.com 域名/example.com 用户名密码都是admin，如果提示系统发生错误 请把根目录public runtime里面的所有文件删除 再进入后台即可<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/aU0sL" style="color: red;">https://mega-file.org/aU0sL</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
